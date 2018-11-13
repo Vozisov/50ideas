@@ -1,0 +1,4 @@
+# 50ideas
+Android app
+
+
